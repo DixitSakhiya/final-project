@@ -1,0 +1,88 @@
+{
+  "addcategory": [
+    {
+      "catagoryname": "red-chair",
+      "added_date": "0004-02-22",
+      "id": "f31d"
+    },
+    {
+      "catagoryname": "black-sofa",
+      "added_date": "2024-06-24",
+      "id": "aa04"
+    }
+  ],
+  "addcart": [
+    {
+      "id": "53dd",
+      "productname": "Bombi Chair",
+      "productimg": "https://jktechhub.in/img22.jpg",
+      "productprice": "599.00",
+      "productdecription": "Koila is a chair designed for restaurants and food lovers in general. Designed in collaboration with restaurant professionals, it ensures comfort and an ideal posture, as there are armrests on both sides of the chair.  Koila is a seat designed for restaurants and gastronomic places in general. Designed in collaboration with professional of restaurants and hotels field"
+    }
+  ],
+  "addproducts": [
+    {
+      "productname": "Bombi Chair",
+      "productimg": "https://jktechhub.in/img22.jpg",
+      "productprice": "599.00",
+      "productdecription": "Koila is a chair designed for restaurants and food lovers in general. Designed in collaboration with restaurant professionals, it ensures comfort and an ideal posture, as there are armrests on both sides of the chair.  Koila is a seat designed for restaurants and gastronomic places in general. Designed in collaboration with professional of restaurants and hotels field",
+      "id": "53dd"
+    },
+    {
+      "productname": "Marvelous Modern 3 Seater",
+      "productimg": "https://jktechhub.in/img23.jpg",
+      "productprice": "899.00",
+      "productdecription": "Koila is a chair designed for restaurants and food lovers in general. Designed in collaboration with restaurant professionals, it ensures comfort and an ideal posture, as there are armrests on both sides of the chair.  Koila is a seat designed for restaurants and gastronomic places in general. Designed in collaboration with professional of restaurants and hotels field, ",
+      "id": "bd8e"
+    },
+    {
+      "productname": "Chair With Armrests",
+      "productimg": "https://jktechhub.in/img24.jpg",
+      "productprice": "699.00",
+      "productdecription": "Koila is a chair designed for restaurants and food lovers in general. Designed in collaboration with restaurant professionals, it ensures comfort and an ideal posture, as there are armrests on both sides of the chair.  Koila is a seat designed for restaurants and gastronomic places in general. Designed in collaboration with professional of restaurants and hotels field, ",
+      "id": "8a15"
+    },
+    {
+      "productname": "Pouf Chair",
+      "productimg": "https://jktechhub.in/img67.jpg",
+      "productprice": "549.00",
+      "productdecription": "Koila is a chair designed for restaurants and food lovers in general. Designed in collaboration with restaurant professionals, it ensures comfort and an ideal posture, as there are armrests on both sides of the chair.  Koila is a seat designed for restaurants and gastronomic places in general. Designed in collaboration with professional of restaurants and hotels field, ",
+      "id": "f3d2"
+    },
+    {
+      "productname": "Jalis Counter Stool",
+      "productimg": "https://jktechhub.in/img68.jpg",
+      "productprice": "649.00",
+      "productdecription": "Koila is a chair designed for restaurants and food lovers in general. Designed in collaboration with restaurant professionals, it ensures comfort and an ideal posture, as there are armrests on both sides of the chair.  Koila is a seat designed for restaurants and gastronomic places in general. Designed in collaboration with professional of restaurants and hotels field, ",
+      "id": "094d"
+    },
+    {
+      "productname": "Bombi Chair",
+      "productimg": "https://jktechhub.in/img24.jpg",
+      "productprice": "499.00",
+      "productdecription": "Koila is a chair designed for restaurants and food lovers in general. Designed in collaboration with restaurant professionals, it ensures comfort and an ideal posture, as there are armrests on both sides of the chair.  Koila is a seat designed for restaurants and gastronomic places in general. Designed in collaboration with professional of restaurants and hotels field, ",
+      "id": "73a2"
+    },
+    {
+      "productname": "Lucky Chair",
+      "productimg": "https://jktechhub.in/img69.jpg",
+      "productprice": "649.00",
+      "productdecription": "Koila is a chair designed for restaurants and food lovers in general. Designed in collaboration with restaurant professionals, it ensures comfort and an ideal posture, as there are armrests on both sides of the chair.  Koila is a seat designed for restaurants and gastronomic places in general. Designed in collaboration with professional of restaurants and hotels field, ",
+      "id": "f88b"
+    },
+    {
+      "productname": "Cut Chair With 4 Spoke Base",
+      "productimg": "https://jktechhub.in/img70.jpg",
+      "productprice": "799.00",
+      "productdecription": "Koila is a chair designed for restaurants and food lovers in general. Designed in collaboration with restaurant professionals, it ensures comfort and an ideal posture, as there are armrests on both sides of the chair.  Koila is a seat designed for restaurants and gastronomic places in general. Designed in collaboration with professional of restaurants and hotels field, ",
+      "id": "1824"
+    },
+    {
+      "productname": "Yard SeChair",
+      "productimg": "https://jktechhub.in/img71.jpg",
+      "productprice": "899.00",
+      "productdecription": "Koila is a chair designed for restaurants and food lovers in general. Designed in collaboration with restaurant professionals, it ensures comfort and an ideal posture, as there are armrests on both sides of the chair.  Koila is a seat designed for restaurants and gastronomic places in general. Designed in collaboration with professional of restaurants and hotels field, ",
+      "id": "4478"
+    }
+  ]
+}
